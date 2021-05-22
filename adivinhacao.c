@@ -27,6 +27,9 @@ int main() {
         continue; 
         }
 
+        printf("Dica: É um número entre 10 e 50");
+
+
          int acertou = (chute == numerosecreto);
          int maior = chute > numerosecreto; 
         
